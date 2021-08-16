@@ -4,3 +4,5 @@ This is a fully functional social media app that has the following functionaliti
   2). Post photos along with cations which other users might like.
   3). Make an attractive profile with lots of posts.
   4). Follow profiles of other users whom you like.
+  
+  ![](Images/1629101810453.jpeg)
